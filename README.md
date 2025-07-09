@@ -22,14 +22,6 @@ openpyxl>=3.0.7
 numpy>=1.20.0
 🚀 Installation
 
-Clone the repository:
-
-bashgit clone https://github.com/yourusername/cpx-equilibrium-melt-calculator.git
-cd cpx-equilibrium-melt-calculator
-
-Install dependencies:
-
-bashpip install pandas openpyxl numpy
 📊 Input Data Structure
 Your Excel file should contain the following sheets:
 1. Study Data Sheets (e.g., "Present Study", "Literature Data")
