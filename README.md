@@ -111,7 +111,7 @@ Use melt compositions for further geochemical modeling
 📖 Citation
 If you use this tool in your research, please cite:
 Sarbajit Dash (2025). cpx equilibrium melt calculator. 
-GitHub repository: https://github.com/yourusername/cpx-equilibrium-melt-calculator
+GitHub repository: https://github.com/004-man/cpx-equilibrium-melt-calculator
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
